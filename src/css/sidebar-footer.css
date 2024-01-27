@@ -219,7 +219,5 @@ footer:hover {
 
 .footer-button a button:hover {
     cursor: pointer;
-    height: 50px;
-    width: 205px;
-    font-size: 15.5px;
+    transform: scale(1.04)
 }
